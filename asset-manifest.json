@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/socialgram/static/css/main.2cce8147.chunk.css",
+    "main.js": "/socialgram/static/js/main.6a41c332.chunk.js",
+    "main.js.map": "/socialgram/static/js/main.6a41c332.chunk.js.map",
+    "runtime~main.js": "/socialgram/static/js/runtime~main.e9f44b11.js",
+    "runtime~main.js.map": "/socialgram/static/js/runtime~main.e9f44b11.js.map",
+    "static/js/2.d2b3733c.chunk.js": "/socialgram/static/js/2.d2b3733c.chunk.js",
+    "static/js/2.d2b3733c.chunk.js.map": "/socialgram/static/js/2.d2b3733c.chunk.js.map",
+    "index.html": "/socialgram/index.html",
+    "precache-manifest.a0829688bcb78b9e3084ac7642768b02.js": "/socialgram/precache-manifest.a0829688bcb78b9e3084ac7642768b02.js",
+    "service-worker.js": "/socialgram/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/socialgram/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/socialgram/static/media/logo.5d5d9eef.svg"
+  }
+}
