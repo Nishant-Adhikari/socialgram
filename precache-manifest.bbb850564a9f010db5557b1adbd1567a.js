@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0066603d94ebe6c27d2ca0b6d84e25b7",
+    "revision": "df925c060f6093a02a3645bade343725",
     "url": "/socialgram/index.html"
   },
   {
-    "revision": "b01cf0944f3e994b3f92",
+    "revision": "c9fcca8184da3e43cbf1",
     "url": "/socialgram/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/socialgram/static/js/2.d2b3733c.chunk.js"
   },
   {
-    "revision": "b01cf0944f3e994b3f92",
-    "url": "/socialgram/static/js/main.6a41c332.chunk.js"
+    "revision": "c9fcca8184da3e43cbf1",
+    "url": "/socialgram/static/js/main.54537c68.chunk.js"
   },
   {
     "revision": "1f5d6b6a0305d233be68",

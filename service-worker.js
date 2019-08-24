@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/socialgram/precache-manifest.a0829688bcb78b9e3084ac7642768b02.js"
+  "/socialgram/precache-manifest.bbb850564a9f010db5557b1adbd1567a.js"
 );
 
 self.addEventListener('message', (event) => {
